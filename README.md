@@ -2,7 +2,7 @@
 
 <!-- Typing SVG (you can replace the message inside the SVG link if you want a different typed text) -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=2B7A78\&width=600\&lines=Hi+there!+I'm+Fyaz+Ahmad+Saad;Designer+•+Developer+•+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=2B7A78\&width=600\&lines=Designer+•+Developer+•+Learner+•+)
 
 ---
 
@@ -17,10 +17,9 @@
 
 ## 📫 Reach Me
 
-* LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/fysaad)
-* Email: `your.email@example.com`
+* LinkedIn: (https://www.linkedin.com/in/fysaad)
+* Email: fysaad.2002@gmail.com
 
-*(Replace the links above with your real contact links.)*
 
 ---
 
@@ -30,7 +29,9 @@
 * **Tools & Platforms:** Git · GitHub · VS Code · IntelliJ IDEA · MS Word
 * **Design:** Adobe Illustrator / Figma (if applicable)
 * **Learning:** Machine Learning, Deep Learning, Data Science
+ 
 
+   
 ---
 
 ## 📊 GitHub Overview
