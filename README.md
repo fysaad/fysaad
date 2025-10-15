@@ -2,9 +2,11 @@
 
 <!-- Typing SVG (you can replace the message inside the SVG link if you want a different typed text) -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=2B7A78\&width=600\&lines=Designer+•+Developer+•+Learner+•+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=2B7A78\&width=600\&lines=Designer+•+Developer+•+Learner)
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=2B7A78\&width=600\&lines=BRACU )
+
+---------------
 
 ## 👨‍💻 About Me
 
@@ -25,9 +27,9 @@
 
 ## 🚀 Tech Stack
 
-* **Languages:** Java, (add others: Python, JavaScript, C++ as applicable)
-* **Tools & Platforms:** Git · GitHub · VS Code · IntelliJ IDEA · MS Word
-* **Design:** Adobe Illustrator / Figma (if applicable)
+* **Languages:** Java, C
+* **Tools & Platforms:**  GitHub · VS Code · IntelliJ IDEA · MS Word
+* **Design:** Adobe Photoshop
 * **Learning:** Machine Learning, Deep Learning, Data Science
  
 
@@ -49,22 +51,17 @@
 * **Project-Name-2** — One-line description. [Repo link](https://github.com/fysaad/project-2)
 * **Project-Name-3** — One-line description. [Repo link](https://github.com/fysaad/project-3)
 
-*(Replace the names and links with your actual projects.)*
-
 ---
 
 ## 🏆 Achievements
 
-* Competitive programming contests (mention platforms and ranks if you like)
-* Any certifications, hackathon wins, or notable accomplishments
+* Competitive programming contests 
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fysaad\&theme=dark)
-
-> Note: Replace `fysaad` in the URL with your GitHub username so the widget shows your live stats.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/fysaad\&theme=dark)
 
 ---
 
