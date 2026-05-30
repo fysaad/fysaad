@@ -13,6 +13,7 @@
 * 🎓 Student at **BRAC University**
 * 🏆 Competitive programmer — practicing on **LeetCode**
 * 🌱 Learning **AI & Machine Learning** and exploring new technologies
+* 🌱 Learning **Cyber Security** and exploring new technologies
 * ⚡ Skilled in **Java**, Git, MS Office (especially MS Word), and graphic design
 
 ---
