@@ -1,72 +1,65 @@
-# 👋 Hey there, I'm Fyaz Ahmad Saad
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+profile!;I'm+a+Full+Stack+Developer.;Let's+build+something+cool!" alt="Typing SVG" />
 
-<!-- Typing SVG (you can replace the message inside the SVG link if you want a different typed text) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+<hr />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=2B7A78\&width=600\&lines=Designer+•+Developer+•+Learner)
+### 🚀 About Me
+- 🔭 I’m currently working on interesting web developments projects.
+- 🌱 I’m currently learning advanced architectures and cloud systems.
+- 👯 I’m looking to collaborate on open-source repositories.
+- 💬 Ask me about **JavaScript, Python, React, or Node.js**.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=2B7A78\&width=600\&lines=BRACU )
+<hr />
 
----------------
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+  
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
-## 👨‍💻 About Me
+<hr />
 
-* 🎓 Student at **BRAC University**
-* 🏆 Competitive programmer — practicing on **LeetCode**
-* 🌱 Learning **AI & Machine Learning** and exploring new technologies
-* 🌱 Learning **Cyber Security** and exploring new technologies
-* ⚡ Skilled in **Java**, Git, MS Office (especially MS Word), and graphic design
+### 📊 GitHub Dashboard
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
----
+<hr />
 
-## 📫 Reach Me
-
-* LinkedIn: (https://www.linkedin.com/in/fysaad)
-* Email: fysaad.2002@gmail.com
-
-
----
-
-## 🚀 Tech Stack
-
-* **Languages:** Java, C
-* **Tools & Platforms:**  GitHub · VS Code · IntelliJ IDEA · MS Word
-* **Design:** Adobe Photoshop
-* **Learning:** Machine Learning, Deep Learning, Data Science
- 
-
-   
----
-
-## 📊 GitHub Overview
-
-* I work on competitive programming problems, small projects, and learning-oriented repos.
-* Check out pinned repositories below for a quick view of my work.
-
----
-
-## 🧰 Featured Projects
-
-> Add a short list of 3–6 projects you want to showcase. For each project include a one-line description and link.
-
-* **Project-Name-1** — One-line description. [Repo link](https://github.com/fysaad/project-1)
-* **Project-Name-2** — One-line description. [Repo link](https://github.com/fysaad/project-2)
-* **Project-Name-3** — One-line description. [Repo link](https://github.com/fysaad/project-3)
-
----
-
-## 🏆 Achievements
-
-* Competitive programming contests 
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/fysaad\&theme=dark)
-
----
-
-## ✨ Quote to Live By
-
-> "First, solve the problem. Then, write the code." — John Johnson
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
