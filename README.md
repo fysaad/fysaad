@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi+there!+👋;Welcome+to+my+profile!;I'm+a+Full+Stack+Developer.;Let's+build+something+cool!" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/fysaad/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
@@ -16,7 +16,7 @@
 <hr />
 
 ### 🚀 About Me
-- 🔭 I’m currently working on interesting web developments projects.
+- 🔭 I’m currently working on interesting web development projects.
 - 🌱 I’m currently learning advanced architectures and cloud systems.
 - 👯 I’m looking to collaborate on open-source repositories.
 - 💬 Ask me about **JavaScript, Python, React, or Node.js**.
