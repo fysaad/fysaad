@@ -1,20 +1,26 @@
+<div align="center">
+
 # 👋 Hey there, I'm Fyaz Ahmad Saad
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%92%BB+Competitive+Programmer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%9A%80+Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Computer+Science+Student;%F0%9F%92%BB+Competitive+Programmer;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast;%F0%9F%9A%80+Lifelong+Learner)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Studying **Computer Science and Engineering**
-🏆 **Competitive Programmer** practicing on [Codeforces](https://codeforces.com)
-🌱 Learning **AI & Machine Learning** + exploring new technologies
-⚡ Skilled in **Python, C++, JavaScript, HTML, CSS, NumPy, Pandas, Scikit-learn**
+🎓 Studying **Computer Science and Engineering**  
+🏆 **Competitive Programmer** practicing on [Codeforces](https://codeforces.com) , [LeetCode](https://leetcode.com)  
+🌱 Learning **AI & Machine Learning** + exploring new technologies  
+⚡ Skilled in **Python, C++, JavaScript, HTML, CSS, NumPy, Pandas, Scikit-learn**  
 📫 Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
+
+<div align="center">
 
 ## 🚀 Tech Stack
 
@@ -30,25 +36,28 @@
 
 ## 📊 GitHub Overview
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
 ---
 
 ## 📈 Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
 
 ---
 
 ## ✨ Quote to Live By
 
-*"First, solve the problem. Then, write the code." 🚀*
+*"First, solve the problem. Then, write the code."* 🚀
+
+</div>
