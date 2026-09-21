@@ -22,7 +22,6 @@
 ---
 
 👨‍💻 Identity Detected !!!
-boxes
 
 I am a punctual and active CSE Undergrad at BRAC University, passionate about programming and problem-solving. My goal is to become a highly skilled software developer.
 
