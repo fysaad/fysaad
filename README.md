@@ -11,7 +11,8 @@
 ## 👨‍💻 About Me
 
 🎓 Studying **Computer Science and Engineering**  
-🏆 **Competitive Programmer** practicing on [Codeforces](https://codeforces.com/profile/fysaad) , [LeetCode](https://leetcode.com/u/eha86SnYgd/)
+🏆 **Competitive Programmer** practicing on [Codeforces](https://codeforces.com/profile/fysaad),[LeetCode](https://leetcode.com/u/eha86SnYgd/)
+
 🌱 Learning **AI & Machine Learning** + exploring new technologies  
 ⚡ Skilled in **Python, C++, JavaScript, HTML, CSS, NumPy, Pandas, Scikit-learn**  
 📫 Reach me:
