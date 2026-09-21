@@ -43,13 +43,13 @@
 
 ## 📈 Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fysaad&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
 
 ---
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=fysaad&theme=onedark&no-frame=true&row=1&column=6" alt="Trophies" />
 
 ---
 
