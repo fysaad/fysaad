@@ -21,6 +21,19 @@
 
 ---
 
+👨‍💻 Identity Detected !!!
+boxes
+
+I am a punctual and active CSE Undergrad at BRAC University, passionate about programming and problem-solving. My goal is to become a highly skilled software developer.
+
+🔭 Currently working on enhancing my skills in **cybersecurity**.
+
+🌱 Learning Advanced Java, C++, JavaScript frameworks and ∞
+
+📺 I am also a tutor at Caretutors.
+
+---
+
 ## 📦 Project
 
 1. Krishi Direct
@@ -44,7 +57,6 @@
 ---
 
 ## 📊 GitHub Overview
-
 
 <img src="https://streak-stats.demolab.com?user=fysaad&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
