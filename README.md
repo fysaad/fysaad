@@ -11,13 +11,21 @@
 ## 👨‍💻 About Me
 
 🎓 Studying **Computer Science and Engineering**  
-🏆 **Competitive Programmer** practicing on [Codeforces](https://codeforces.com/profile/fysaad),[LeetCode](https://leetcode.com/u/eha86SnYgd/)
+🏆 **Competitive Programmer** practicing on [Codeforces](https://codeforces.com/profile/fysaad) , [LeetCode](https://leetcode.com/u/eha86SnYgd/)
 
 🌱 Learning **AI & Machine Learning** + exploring new technologies  
 ⚡ Skilled in **Python, C++, JavaScript, HTML, CSS, NumPy, Pandas, Scikit-learn**  
 📫 Reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fysaad/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fysaad.2002@gmail.com)
+
+---
+
+## 📦 Project
+
+1. Krishi Direct
+2. BracU Slot Finder
+3. BracU Room Finder
 
 ---
 
